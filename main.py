@@ -17,5 +17,5 @@ if __name__ == '__main__':
 name = "Oleg"
 print(name)
 
-d = 54 + 888 - 300
+d = 5465 + 8 - 3
 print(d)
