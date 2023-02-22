@@ -16,3 +16,6 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 name = "Oleg"
 print(name)
+
+d = 5 + 7
+print(d)
